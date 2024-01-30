@@ -1,7 +1,7 @@
 Olá eu sou o Luiz Gustavo 👋
 
-- 🔭 Atualmente trabalho com Front-End / Full-Stack
-- 🌱 Estudando React Native
+- 🔭 Atualmente trabalho como Full Stack Developer
+- 🌱 Vivendo em React Native
 - 📫 Email de Contato: gustavocontato0405@gmail.com
 
 <div align="center">
