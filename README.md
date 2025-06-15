@@ -29,8 +29,8 @@ Sou um desenvolvedor **Full Stack** apaixonado por transformar ideias em solu√ß√
 
 <div align="center">
   <a href="https://github.com/luizgpoliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgpoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgpoliveira&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgpoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgpoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
