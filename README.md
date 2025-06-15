@@ -28,9 +28,9 @@ Sou um desenvolvedor **Full Stack** apaixonado por transformar ideias em soluç�
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/lgpobr8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgpobr8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgpobr8&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/luizgpoliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgpoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgpoliveira&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
